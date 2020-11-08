@@ -16,3 +16,11 @@ ou
 
 Qual a sua idade: 80
 Você não pode ser doador de sangue.
+
+**Como executar**:
+
+Acesse a pasta do projeto e digite:
+
+```
+dotnet run
+```
